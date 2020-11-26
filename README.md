@@ -1,4 +1,4 @@
-# Credit-Card-Marketing-Segmentation-Using-K-Means-Clustering-and-
+# Credit Card Marketing Segmentation Using K-Means Clustering and Principal Component Analysis Algorithms
 This project leverages K-means clustering and Principal Component Analysis algorithms to group credit card customers for the purpose of marketing segmentation. Please navigate to the Jupyter notebook to view the entire project.
 
 ## Acknowledgements
